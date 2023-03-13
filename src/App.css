@@ -1,0 +1,32 @@
+.carrito{
+    color:white;
+}
+
+.numeroCarritoNav{
+    text-decoration: none;
+}
+
+.numeroCarrito{
+    font-size: 0.80rem;
+    background-color:darkred;
+    border-radius: 1rem;
+    position: absolute;
+    top: 1rem;
+    right: 8.5rem;
+    color: white;
+}
+
+.link1{
+    text-decoration: none;
+    position: absolute;
+    left: 20rem;
+    color: white;
+}
+
+.listContainer{
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 5rem;
+}
