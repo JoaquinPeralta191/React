@@ -20,13 +20,21 @@
     text-decoration: none;
     position: absolute;
     left: 20rem;
+    top: 1rem;
     color: white;
 }
 
-.listContainer{
-    display: flexbox;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
-    margin-top: 5rem;
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1.5rem;
+}
+
+.card{
+    margin: 2rem;
+    height: 20rem;
+}
+
+.link{
+    text-decoration: none;
 }
