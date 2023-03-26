@@ -2,10 +2,6 @@
     color:white;
 }
 
-.numeroCarritoNav{
-    text-decoration: none;
-}
-
 .numeroCarrito{
     font-size: 0.80rem;
     background-color:darkred;
@@ -14,13 +10,14 @@
     top: 1rem;
     right: 8.5rem;
     color: white;
+    text-decoration: none;
 }
 
 .link1{
     text-decoration: none;
     position: absolute;
     left: 20rem;
-    top: 1rem;
+    top: 0.7rem;
     color: white;
 }
 
@@ -38,3 +35,71 @@
 .link{
     text-decoration: none;
 }
+
+.links{
+    text-decoration:none ;
+    color: black;
+}
+
+.product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .product-image {
+    width: 50%;
+    margin: 4rem;
+  }
+  
+  .product-image img {
+    width: 70%;
+  }
+  
+  .product-details{
+    width: 35%;
+  }
+
+  .product-details h3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .product-details p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .product-details button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .descripcionTitulo{
+    margin-top: 5rem;
+  }
+
+  .contDescripcion{
+    font-size: 1.2rem;
+  }
+
+  .link2{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 0.7rem;
+    right: 60rem;
+  }
+
+  .link3{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 0.7rem;
+    right: 50rem;
+  }

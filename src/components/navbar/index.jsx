@@ -13,9 +13,17 @@ const navbar = () => {
             <Link to="/products" className='link1'>
               <p>Productos</p>
             </Link>
+            <Link to="/products/figuras" className='link2'>
+            <p>Figuras</p>
+            </Link>
+            <Link to="/products/vestimenta" className='link3'>
+            <p>Vestimenta</p>
+            </Link>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Link to="/cart">
-              <p className='numeroCarritoNav'><CartWidget /></p>
+              <div>          
+              <CartWidget/>
+              </div>
             </Link>
           </Container>
         </Navbar>

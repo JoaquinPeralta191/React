@@ -5,28 +5,21 @@ import Home from './components/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ItemListContainer from './components/itemListContainer'
 import Navbar from './components/navbar'
-import { useState } from 'react';
-import { useEffect } from 'react';
+import ItemDetailContainer from './components/itemDetailContainer';
 
 function App(){
-  const[productos, setProductos] = useState([])
 
-    useEffect(() => {
-    fetch('../funko.json')
-      .then(response => response.json())
-      .then(data =>{
-        setProductos(data)
-      })
-  }, [])
-  
   return(
     
     <div>
     <Navbar />
     <Routes>
+    <Route path='/404' element={<h2>No es lo que estas buscando (404)</h2>}></Route>
       <Route path="/" element={<Navigate to="home"/>}></Route>
       <Route path="/home" element={<Home />}></Route>
-      <Route path='/products' element={<ItemListContainer  productos={productos}/>}></Route>
+      <Route path='/products' element={<ItemListContainer/>}></Route>
+      <Route path='/products/:category' element={<ItemListContainer/>}></Route>
+      <Route path='/products/:category/item/:handle' element={<ItemDetailContainer/>}></Route>
     </Routes>
     </div>
       

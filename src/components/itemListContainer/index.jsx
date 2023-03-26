@@ -1,20 +1,27 @@
-import Card from 'react-bootstrap/Card'
+import CardP from '../Card';
+import '../../../funko.json';
+import { useEffect } from 'react';
+import { useState } from 'react';
 
-const itemListContainer = ({productos}) => {
-    return (
-      <div>
+const itemListContainer = () => {
+  const[productos, setProductos] = useState([])
+  
+  useEffect(() => {
+  fetch('../../../funko.json')
+    .then(response => response.json())
+    .then(data =>{
+      setProductos(data)
+    })
+}, [])
+  
+  
+  
+  return (
+      <div>  
         <div className='productos'>
-            {productos.map((producto) =>{
+            {productos.map((productos) =>{
             return(
-            <Card clasName="card" style={{ width: '18rem'}}>
-            <Card.Img variant="top" src= {producto.imageName} />
-            <Card.Body>
-          <Card.Title>{producto.title}</Card.Title>
-          <Card.Text>
-            {producto.series}
-          </Card.Text>
-        </Card.Body>
-      </Card>
+            <CardP key={productos.handle} productos={productos}/>
       )
     })}
     </div>
