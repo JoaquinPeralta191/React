@@ -4,24 +4,29 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { useParams } from 'react-router-dom';
 
-const itemListContainer = () => {
+const ItemListContainer = () => {
   const[productos, setProductos] = useState([])
   const { category } = useParams()
 
-  useEffect(() => {
-  fetch('../../../funko.json')
-    .then(response => response.json())
-    .then(data =>{
-      setProductos(data)
-    })
-}, [])
+    useEffect(() => {
+      fetch('../../../funko.json')
+        .then(response => response.json())
+        .then(data =>{
+          if(category == undefined){
+            setProductos(data)
+          }else{
+            const funkoCategory = data.filter((f) => f.category === category)
+            setProductos(funkoCategory)
+          }
+        })
+    }, [category])
 
   return (
       <div>  
         <div className='productos'>
             {productos.map((productos) =>{
             return(
-            <CardP key={productos.category} productos={productos}/>
+            <CardP key={productos.handle} productos={productos}/>
       )
     })}
     </div>
@@ -29,4 +34,4 @@ const itemListContainer = () => {
     );
   };
 
-  export default itemListContainer;
+  export default ItemListContainer;

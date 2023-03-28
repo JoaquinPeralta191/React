@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import '../../../funko.json';
 import '../../App.css'
 
-function itemDetailContainer() {
+function ItemDetailContainer() {
   const [producto, setProducto] = useState({})
   const { handle } = useParams()
 
@@ -38,4 +38,4 @@ function itemDetailContainer() {
   )
 }
 
-export default itemDetailContainer;
+export default ItemDetailContainer;

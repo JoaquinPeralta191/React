@@ -13,10 +13,10 @@ const navbar = () => {
             <Link to="/products" className='link1'>
               <p>Productos</p>
             </Link>
-            <Link to="/products/figuras" className='link2'>
+            <Link to="/products/Figuras" className='link2'>
             <p>Figuras</p>
             </Link>
-            <Link to="/products/vestimenta" className='link3'>
+            <Link to="/products/Vestimenta" className='link3'>
             <p>Vestimenta</p>
             </Link>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
