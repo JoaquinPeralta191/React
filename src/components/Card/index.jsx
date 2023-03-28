@@ -4,7 +4,7 @@ import '../../App.css'
 
 const CardP = ({productos}) => {
   return (
-    <Link className="links" to={`${productos.series}/item/${productos.handle}`}>
+    <Link className="links" to={`${productos.category}/item/${productos.handle}`}>
         <Card className="card" style={{ width: '18rem'}}>
             <Card.Img variant="top" src= {productos.imageName} />
             <Card.Body>

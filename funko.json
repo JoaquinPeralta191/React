@@ -2,83 +2,83 @@
     {"handle":"conan-o'brien-as-marty-mcfly",
     "title":"Conan O'Brien as Marty McFly",
     "imageName":"https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/908575/Conan_O%2527Brien_as_Marty_McFly_Vinyl_Art_Toys_ddb0cc2e-f6ec-4484-9c4e-ddfb8c7478e5.JPG",
-    "series":"Figuras",
+    "category":"Figuras",
     "price": "12000"},
 
     {"handle":"patrick-star-spongebob-movie-(prototype)",
     "title":"Patrick Star (Spongebob Movie)",
     "imageName":"https://http2.mlstatic.com/D_NQ_NP_740206-MLA43441500228_092020-O.jpg",
-    "series":"Figuras",
+    "category":"Figuras",
     "price": "23000"},
 
     {"handle":"squidward-tentacles-spongebob-movie-(prototype)",
     "title":"Squidward Tentacles (Spongebob Movie)",
-    "imageName":"https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/786343/Squidward_Tentacles_%2528Spongebob_Movie%2529_Vinyl_Art_Toys_35d6f45b-b7f6-4c27-9527-89f818593712.JPG","series":"Figuras" ,
+    "imageName":"https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/786343/Squidward_Tentacles_%2528Spongebob_Movie%2529_Vinyl_Art_Toys_35d6f45b-b7f6-4c27-9527-89f818593712.JPG","category":"Figuras" ,
     "price": "32800"},
     
     {"handle":"the-amazing-spider-man-hat",
     "title":"The Amazing Spider-Man Hat",
     "imageName":"https://i.ebayimg.com/images/g/iJwAAOSw4A5Ywc0O/s-l1600.jpg",
-    "series":"Vestimenta" ,
+    "category":"Vestimenta" ,
     "price": "7200"},
     
-    {"handle":"the-amazing-spider-man-backpack","title":"The Amazing Spider-Man Backpack","imageName":"https://i.ebayimg.com/images/g/JosAAOSwGY5fJgjl/s-l500.jpg","series":"Figuras",
+    {"handle":"the-amazing-spider-man-backpack","title":"The Amazing Spider-Man Backpack","imageName":"https://i.ebayimg.com/images/g/JosAAOSwGY5fJgjl/s-l500.jpg","category":"Figuras",
     "price": "14000"},
     
-    {"handle":"spider-man-black-light","title":"Spider-Man (Black Light)","imageName":"https://cdn.shopify.com/s/files/1/0519/6696/7960/products/spider-man-652-blacklight_1024x.jpg?v=1667232992","series":"Figuras",
+    {"handle":"spider-man-black-light","title":"Spider-Man (Black Light)","imageName":"https://cdn.shopify.com/s/files/1/0519/6696/7960/products/spider-man-652-blacklight_1024x.jpg?v=1667232992","category":"Figuras",
     "price": "12800"},
     
-    {"handle":"the-smell-of-freedom!-toilet-ninjas","title":"The Smell Of Freedom!","imageName":"https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/891463/The_Smell_Of_Freedom%2521_%2528Toilet_Ninjas%2529_Shirts_and_Jackets_e8a48e46-b178-4574-920d-088085afecbb.jpg","series":"Vestimenta",
+    {"handle":"the-smell-of-freedom!-toilet-ninjas","title":"The Smell Of Freedom!","imageName":"https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/891463/The_Smell_Of_Freedom%2521_%2528Toilet_Ninjas%2529_Shirts_and_Jackets_e8a48e46-b178-4574-920d-088085afecbb.jpg","category":"Vestimenta",
     "price": "8000"},
     
-    {"handle":"i-smell-fear-toilet-ninjas","title":"I Smell Fear","imageName":"https://media.gamestop.com/i/gamestop/11133904/Toilet-Ninja-Toilet-Crane-Youth-T-Shirt","series":"Vestimenta",
+    {"handle":"i-smell-fear-toilet-ninjas","title":"I Smell Fear","imageName":"https://media.gamestop.com/i/gamestop/11133904/Toilet-Ninja-Toilet-Crane-Youth-T-Shirt","category":"Vestimenta",
     "price": "5600"},
     
-    {"handle":"this-is-how-we-roll-toilet-ninjas","title":"This is How We Roll","imageName":"https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw2e1eb333/images/funko/upload/55107_POTTY_TIME_NINJA_FH13882__WEB.png?sw=800&sh=800","series":"Vestimenta",
+    {"handle":"this-is-how-we-roll-toilet-ninjas","title":"This is How We Roll","imageName":"https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw2e1eb333/images/funko/upload/55107_POTTY_TIME_NINJA_FH13882__WEB.png?sw=800&sh=800","category":"Vestimenta",
     "price": "5600"},
     
-    {"handle":"negan-clean-shaven-(black-&amp;-white)","title":"Negan (Black & White)","imageName":"https://images.whatnot.com/eyJidWNrZXQiOiJ3aGF0bm90LWltYWdlcyIsImtleSI6InByb2R1Y3RzL05lZ2FuLShCbG9vZHkpLShCbGFjay0mLVdoaXRlKS04ODk2OTg1NDMyOTMtMzM0NDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=","series":"Figuras",
+    {"handle":"negan-clean-shaven-(black-&amp;-white)","title":"Negan (Black & White)","imageName":"https://images.whatnot.com/eyJidWNrZXQiOiJ3aGF0bm90LWltYWdlcyIsImtleSI6InByb2R1Y3RzL05lZ2FuLShCbG9vZHkpLShCbGFjay0mLVdoaXRlKS04ODk2OTg1NDMyOTMtMzM0NDgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=","category":"Figuras",
     "price": "15200"},
     
-    {"handle":"spider-man-street-art","title":"Spider-Man (Street Art)","imageName":"https://http2.mlstatic.com/D_NQ_NP_940197-MLA45360438127_032021-O.jpg","series":"Figuras",
+    {"handle":"spider-man-street-art","title":"Spider-Man (Street Art)","imageName":"https://http2.mlstatic.com/D_NQ_NP_940197-MLA45360438127_032021-O.jpg","category":"Figuras",
     "price": "20000"},
     
-    {"handle":"groot-wood-deco-(prototype)","title":"Groot (Wood Deco)","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/718wvskGeBL.jpg","series":"Figuras",
+    {"handle":"groot-wood-deco-(prototype)","title":"Groot (Wood Deco)","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/718wvskGeBL.jpg","category":"Figuras",
     "price": "8000"},
     
-    {"handle":"bb-8","title":"BB-8","imageName":"https://http2.mlstatic.com/D_NQ_NP_622438-MLA31596835745_072019-O.webp","series":"Figuras",
+    {"handle":"bb-8","title":"BB-8","imageName":"https://http2.mlstatic.com/D_NQ_NP_622438-MLA31596835745_072019-O.webp","category":"Figuras",
     "price": "10000"},
     
-    {"handle":"harry-potter-2019-advent-calendar","title":"Harry Potter 2019 Advent Calendar","imageName":"https://i.ebayimg.com/images/g/mKIAAOSw~z9f9Hq8/s-l640.jpg","series":"Figuras",
+    {"handle":"harry-potter-2019-advent-calendar","title":"Harry Potter 2019 Advent Calendar","imageName":"https://i.ebayimg.com/images/g/mKIAAOSw~z9f9Hq8/s-l640.jpg","category":"Figuras",
     "price": "22800"},
     
-    {"handle":"hagrid-with-tree","title":"Hagrid","imageName":"https://http2.mlstatic.com/D_NQ_NP_915902-MLA44163304603_112020-O.jpg","series":"Figuras",
+    {"handle":"hagrid-with-tree","title":"Hagrid","imageName":"https://http2.mlstatic.com/D_NQ_NP_915902-MLA44163304603_112020-O.jpg","category":"Figuras",
     "price": "60500"},
     
-    {"handle":"ron-weasley-holiday","title":"Ron Weasley","imageName":"https://cdn.shopify.com/s/files/1/0643/8672/8148/products/pop-harry-potter-holiday-ron-weasley_1080x.jpg?v=1677528889","series":"Figuras",
+    {"handle":"ron-weasley-holiday","title":"Ron Weasley","imageName":"https://cdn.shopify.com/s/files/1/0643/8672/8148/products/pop-harry-potter-holiday-ron-weasley_1080x.jpg?v=1677528889","category":"Figuras",
     "price": "10200"},
     
-    {"handle":"neville-longbottom","title":"Neville Longbottom","imageName":"https://http2.mlstatic.com/D_NQ_NP_851105-MLA43442199663_092020-O.jpg","series":"Figuras",
+    {"handle":"neville-longbottom","title":"Neville Longbottom","imageName":"https://http2.mlstatic.com/D_NQ_NP_851105-MLA43442199663_092020-O.jpg","category":"Figuras",
     "price": "19500"},
     
-    {"handle":"hermione-polyjuice-potion","title":"Hermione (Polyjuice Potion)","imageName":"https://cf.shopee.com.co/file/sg-11134201-22120-m8zkf38rtklv2c","series":"Figuras",
+    {"handle":"hermione-polyjuice-potion","title":"Hermione (Polyjuice Potion)","imageName":"https://cf.shopee.com.co/file/sg-11134201-22120-m8zkf38rtklv2c","category":"Figuras",
     "price": "13400"},
     
-    {"handle":"hermione-with-gift","title":"Hermione","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61QptKfzk9L._AC_SX679_.jpg","series":"Figuras",
+    {"handle":"hermione-with-gift","title":"Hermione","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61QptKfzk9L._AC_SX679_.jpg","category":"Figuras",
     "price": "6000"},
     
-    {"handle":"harry-with-invisibility-cloak","title":"Harry With Invisibility Cloak","imageName":"https://http2.mlstatic.com/D_NQ_NP_847367-MLA43346417729_092020-O.webp","series":"Figuras",
+    {"handle":"harry-with-invisibility-cloak","title":"Harry With Invisibility Cloak","imageName":"https://http2.mlstatic.com/D_NQ_NP_847367-MLA43346417729_092020-O.webp","category":"Figuras",
     "price": "10250"},
     
-    {"handle":"harry-with-owl-ornament","title":"Harry With Owl Ornament","imageName":"https://i.ebayimg.com/images/g/7ksAAOSwoNhjzeTo/s-l1600.jpg","series":"Figuras",
+    {"handle":"harry-with-owl-ornament","title":"Harry With Owl Ornament","imageName":"https://i.ebayimg.com/images/g/7ksAAOSwoNhjzeTo/s-l1600.jpg","category":"Figuras",
     "price": "6800"},
     
-    {"handle":"fawkes-flocked","title":"Fawkes","imageName":"https://www.zonavideojuego.com/43318-large_default/pop-fawkes-144-harry-potter-brilla-en-la-oscuridad.jpg","series":"Figuras",
+    {"handle":"fawkes-flocked","title":"Fawkes","imageName":"https://www.zonavideojuego.com/43318-large_default/pop-fawkes-144-harry-potter-brilla-en-la-oscuridad.jpg","category":"Figuras",
     "price": "14000"},
     
-    {"handle":"fang","title":"Hadrid's Hut and Fang","imageName":"https://i.pinimg.com/originals/27/4a/e2/274ae29c299c84d30810e866206266f5.jpg","series":"Figuras",
+    {"handle":"fang","title":"Hadrid's Hut and Fang","imageName":"https://i.pinimg.com/originals/27/4a/e2/274ae29c299c84d30810e866206266f5.jpg","category":"Figuras",
     "price": "19600"},
     
-    {"handle":"albus-dumbledore-with-baby-harry","title":"Albus Dumbledore with Baby Harry","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71EtVv2RicL.jpg","series":"Figuras",
+    {"handle":"albus-dumbledore-with-baby-harry","title":"Albus Dumbledore with Baby Harry","imageName":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71EtVv2RicL.jpg","category":"Figuras",
     "price": "10400"}
     ]

@@ -28,7 +28,7 @@ function itemDetailContainer() {
 				<button>Comprar</button>
 				<h4 className='descripcionTitulo'>Descripcion</h4>
 				<div className='contDescripcion'>
-				Pertenece a la categoria: {producto.series}
+				Pertenece a la categoria: {producto.category}
 				</div>
 				</div>
 			
